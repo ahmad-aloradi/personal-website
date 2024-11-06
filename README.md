@@ -1,1 +1,2 @@
-# Personal Website\n\nMy personal portfolio website showcasing my work and research.
+# Personal Website
+My simple personal portfolio showcasing my work and research.
