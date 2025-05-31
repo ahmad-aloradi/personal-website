@@ -1,0 +1,14 @@
+
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Ahmad Aloradi's personal website",
+  "main": "index.html",
+  "scripts": {
+    "start": "node serve.js",
+    "start:python": "python3 -m http.server 3000",
+    "start:python2": "python -m SimpleHTTPServer 3000"
+  },
+  "author": "Ahmad Aloradi",
+  "license": "MIT"
+}
